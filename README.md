@@ -5,9 +5,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2> Certifaications</h2>
+<h2> Porfolio </h2>
 
-- [Foundations of Cybersecurity](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Documents](https://github.com/malikaii99/Porfolio-Documents/tree/Documents)
 
 <h2> 🤳 Connect with me:</h2>
 
