@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andy! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andy! <br/> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
