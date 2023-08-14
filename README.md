@@ -3,7 +3,10 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/-Practice)
+  - 
+-  <b>Auditing Practice </b>
+   -  Internal IT Audit Findings and Recommendations of Botium Toys 
 
 <h2> Porfolio </h2>
 
