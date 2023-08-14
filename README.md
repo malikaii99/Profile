@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in R/Rstudio](https://github.com/-Practice)
   - 
 -  <b>Auditing Practice </b>
-   -  [Internal IT Audit Findings and Recommendations of Botium Toys](https://github.com/malikaii99/Security-Audit-Botium-Toys)
+   -  [Internal IT Audit Findings and Recommendations of Botium Toys] (https://github.com/malikaii99/Security-Audit-Botium-Toys)
 
 <h2> Porfolio </h2>
 
