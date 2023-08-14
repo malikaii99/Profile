@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/-Practice)
+- <b>Data Structures and Algorithms Practice </b>
+  - [Praciting DS & Algos in R/Rstudio](https://github.com/-Practice)
   - 
 -  <b>Auditing Practice </b>
-   -  Internal IT Audit Findings and Recommendations of Botium Toys 
+   -  [Internal IT Audit Findings and Recommendations of Botium Toys](https://github.com/malikaii99/Security-Audit-Botium-Toys)
 
 <h2> Porfolio </h2>
 
