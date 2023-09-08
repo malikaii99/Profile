@@ -7,6 +7,8 @@
   - 
 -  <b>Auditing Practice </b>
    - [Internal IT Audit Findings and Recommendations of Botium Toys](https://github.com/malikaii99/Security-Audit-Botium-Toys)
+   - [Network-Traffic-Analysis-Incident-Report](https://github.com/malikaii99/Network-Traffic-Analysis-Incident-Report)
+   - [Analyzing-Network-Attacks-Incident-Report](https://github.com/malikaii99/Analyzing-Network-Attacks-Incident-Report)
 
 <h2> Porfolio </h2>
 
