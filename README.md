@@ -14,7 +14,10 @@
    - [Network Attacks Analysis Incident Report](https://github.com/malikaii99/Analyzing-Network-Attacks-Incident-Report)
    - [Operation System Hardening](https://github.com/malikaii99/Operation-System-Hardening-Practice)
    - [National Institute of Standards and Technology-Cybersecurity Framework Incident Report Analysis](https://github.com/malikaii99/National-Institute-of-Standards-and-Technology-Cybersecurity-Framework-Incident-Report-Analysis)
-   - [National Institute of Standards and Technology-Cybersecurity Framework Incident Report Analysis](https://github.com/malikaii99/National-Institute-of-Standards-and-Technology-Cybersecurity-Framework-Incident-Report-Analysis)
+   - [Assets Classification](https://github.com/malikaii99/Assets-Classification)
+   - [Risk Assesment](https://github.com/malikaii99/Risk-Assestment)
+   - [AAA Framework](https://github.com/malikaii99/Authentication-Authorization-Accounting--AAA--Framework)
+   - [Data Handling](https://github.com/malikaii99/Data-Handling)
 
 
 <h2> Porfolio </h2>
