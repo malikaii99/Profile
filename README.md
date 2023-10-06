@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
+- <b>Data Structures and Algorithms Projects </b>
   - [Correlation of IFNL and Frailty-R/Rstudio](https://github.com/malikaii99/Correlation-of-IFNL-and-Frailty-Research-Project/blob/main/README.md)
   - [SQL Queries](https://github.com/malikaii99/SQL-Queries-Practice)
   - [File Management Permission-Linux](https://github.com/malikaii99/File-Management-Permission-Linux)
  
   
--  <b>Auditing Practice </b>
+-  <b>Auditing Projects </b>
    - [Internal IT Audit of Botium Toys](https://github.com/malikaii99/Security-Audit-Botium-Toys)
    - [Network Traffic Analysis Incident Report](https://github.com/malikaii99/Network-Traffic-Analysis-Incident-Report)
    - [Network Attacks Analysis Incident Report](https://github.com/malikaii99/Analyzing-Network-Attacks-Incident-Report)
@@ -18,6 +18,9 @@
    - [Risk Assesment](https://github.com/malikaii99/Risk-Assestment)
    - [AAA Framework](https://github.com/malikaii99/Authentication-Authorization-Accounting--AAA--Framework)
    - [Data Handling](https://github.com/malikaii99/Data-Handling)
+   - [Process of Attack Simulation and Threat Analysis (PASTA) Threat Modeling Framework](https://github.com/malikaii99/PASTA-Framework_Threat-Modeling/tree/main)
+   - [Attack Vector Identification](https://github.com/malikaii99/Attack-Vector-Identification)
+   - [Vulnerability System Analysis](https://github.com/malikaii99/Vulnerability-System-Analysis)
 
 
 <h2> Porfolio </h2>
