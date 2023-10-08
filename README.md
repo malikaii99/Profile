@@ -1,6 +1,6 @@
-<h1>Hi, I'm Andy! <br/> Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andy! <br/> Cybersecurity and Data Analytic Professional</a></h1>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Projects Log</h2>
 
 - <b>Data Structures and Algorithms Projects </b>
   - [Correlation of IFNL and Frailty-R/Rstudio](https://github.com/malikaii99/Correlation-of-IFNL-and-Frailty-Research-Project/blob/main/README.md)
