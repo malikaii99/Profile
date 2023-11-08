@@ -6,7 +6,7 @@
   - [Correlation of IFNL and Frailty-R/Rstudio](https://github.com/malikaii99/Correlation-of-IFNL-and-Frailty-Research-Project/blob/main/README.md)
   - [SQL Queries](https://github.com/malikaii99/SQL-Queries-Practice)
   - [File Management Permission-Linux](https://github.com/malikaii99/File-Management-Permission-Linux)
-  - [Algorithm Creation-Python](https://github.com/malikaii99/File-Management-Permission-Linux](https://github.com/malikaii99/Algorithm-Creation-Python/blob/main/README.md))
+  - [Algorithm Creation-Python](https://github.com/malikaii99/Algorithm-Creation-Python/blob/main/README.md))
  
   
 -  <b>Auditing Projects </b>
