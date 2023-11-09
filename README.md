@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andy! <br/> Cybersecurity and Data Analytic Professional</a></h1>
+<h1>Hi, I'm Andy! <br/> Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Projects Log</h2>
 
