@@ -24,7 +24,7 @@
    - [Vulnerability System Analysis](https://github.com/malikaii99/Vulnerability-System-Analysis)
 
 
-<h2> Porfolio </h2>
+<h2> Portfolio </h2>
 
 - [Documents](https://github.com/malikaii99/Porfolio-Documents/tree/Documents)
 
